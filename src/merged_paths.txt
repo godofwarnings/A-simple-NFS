@@ -1,0 +1,10 @@
+Accessible Files:
+./plot_dir/plot.txt
+./gravity_subdir2/rand_ahdusfhiosdaufasu.txt
+./gravity_subdir/so-good.webp
+./gravity_subdir/intro.txt
+
+Accessible Directories:
+./plot_dir
+./gravity_subdir2
+./gravity_subdir
